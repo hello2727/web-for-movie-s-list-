@@ -1,2 +1,2 @@
 ### personal_project
->yarn 
+>yarn사용 프로젝트
